@@ -1,0 +1,12 @@
+{
+  "name": "taskflow-cli",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "bin": {
+    "taskflow": "src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
